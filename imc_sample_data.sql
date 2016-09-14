@@ -21,6 +21,7 @@ SET time_zone = "+00:00";
 --
 DROP DATABASE `imcdb`;
 CREATE DATABASE `imcdb`;
+SELECT DATABASE `imcdb`;
 -- --------------------------------------------------------
 
 --
